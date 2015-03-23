@@ -1,0 +1,3 @@
+[submodule "controlp5"]
+	path = controlp5
+	url = https://github.com/erniejunior/controlp5.git
